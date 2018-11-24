@@ -1,3 +1,7 @@
 bbbb
 ============
+<<<<<<< .mine
 bbbb
+=======
+aaaaa
+>>>>>>> .theirs
